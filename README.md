@@ -31,8 +31,9 @@ As the application server market matures, high performance becomes a stronger cr
  
 ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/8ead363c-7b62-42de-8918-2493fdf96696)
 
+![image](https://github.com/sanjay5656/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/115128955/61cb8f38-17d4-4fbc-9188-a937e89e1275)
 
+![image](https://github.com/sanjay5656/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/115128955/de1cc389-e288-40c2-b816-d38839af37ca)
 
 ## Results: 
-
-  The Application  server and network server data is add on the data dashboard using visualiztion editor 
+The Application  server and network server data is add on the data dashboard using visualiztion editor. 
